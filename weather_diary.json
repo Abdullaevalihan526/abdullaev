@@ -1,0 +1,14 @@
+[
+    {
+        "date": "2013-01-01",
+        "temperature": 5.0,
+        "description": "жара",
+        "precipitation": "нет"
+    },
+    {
+        "date": "2015-01-01",
+        "temperature": 6.0,
+        "description": "снег",
+        "precipitation": "да"
+    }
+]
